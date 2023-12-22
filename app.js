@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
 // //  Using JS
 // const root = document.getElementById("root");
 // root.innerHTML = "<h1> Hello World from JS<h1>";
@@ -24,7 +26,7 @@ const parent = React.createElement("div", { id: "parent" }, [
     ])
 ]);
 
-console.log(parent);
+//console.log(parent);
 // heading is react element i.e js objects
 const root = ReactDOM.createRoot(document.getElementById("root"));
 

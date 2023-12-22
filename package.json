@@ -1,0 +1,31 @@
+{
+    "name": "react",
+    "version": "1.0.0",
+    "description": "my attempt at learning react",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kunal-Jadhav-1/React.git"
+    },
+    "keywords": [],
+    "author": "Kunal Jadhav",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Kunal-Jadhav-1/React/issues"
+    },
+    "homepage": "https://github.com/Kunal-Jadhav-1/React#readme",
+    "devDependencies": {
+        "parcel": "^2.10.3",
+        "process": "^0.11.10"
+    },
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "browserList": [
+        "Last 2 version"
+    ]
+
+}
