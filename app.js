@@ -2,14 +2,6 @@
 // const root = document.getElementById("root");
 // root.innerHTML = "<h1> Hello World from JS<h1>";
 
-{
-    /* <div id="parent">
-          <div id="child">
-              <h1> whatever</h1>
-          </div>
-      </div> */
-}
-
 
 
 
